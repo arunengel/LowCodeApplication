@@ -1,0 +1,39 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "CurrentIndex&Sequence_5",
+        "CustomerRowIndices&Sequence_4",
+        "Name&Sequence_4",
+        "PDFPageCount&Sequence_1",
+        "Header&Sequence_4",
+        "hoursValue&Sequence_5",
+        "dateValue&Sequence_5",
+        "Information&Sequence_2",
+        "Output&Sequence_2",
+        "Body&Sequence_2",
+        "ResponseContent&Sequence_2",
+        "ResponseStatus&Sequence_2",
+        "str_extractedInformation&Sequence_2",
+        "js_extractedInformation&Sequence_2",
+        "FilePath&Sequence_2",
+        "ExcelPath&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_FileName"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
