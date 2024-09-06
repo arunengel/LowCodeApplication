@@ -1,1 +1,2 @@
-These are the files containing the backend code for the UiPath application.
+These are the files containing the automations for the UiPath application.
+The "BachelorProject (1).uiapp" file represents the frontend page that was created.
